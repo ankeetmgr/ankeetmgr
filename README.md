@@ -21,6 +21,7 @@
     <td width="60%" valign="middle">
       🎓 BCA Student<br /><br />
       🏫 Kathmandu, Nepal<br /><br />
+      🏔️ Originally from Baglung<br /><br />
       💻 Learning web development<br /><br />
       🌐 Languages: 🇳🇵 • 🇺🇸
     </td>
@@ -45,14 +46,14 @@
   </tr>
 </table>
 
-<h3 align="center">Contribution calendar</h3>
+<h3 align="center">Contribution snake 🐍</h3>
 
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/8b5cf6/ankeetmgr" alt="Ankeet's contribution calendar" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankeetmgr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&title=Ankeet%27s%20Contribution%20Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankeetmgr/ankeetmgr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankeetmgr/ankeetmgr/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ankeetmgr/ankeetmgr/output/github-snake.svg" width="95%" />
+  </picture>
 </p>
 
 <hr />
@@ -78,3 +79,4 @@
 
 <hr />
 
+<h4 align="center">made with 💜 by <a href="https://github.com/ankeetmgr">Ankeet</a></h4>
