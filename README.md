@@ -21,7 +21,6 @@
     <td width="60%" valign="middle">
       🎓 BCA Student<br /><br />
       🏫 Kathmandu, Nepal<br /><br />
-      🏔️ Originally from Baglung<br /><br />
       💻 Learning web development<br /><br />
       🌐 Languages: 🇳🇵 • 🇺🇸
     </td>
