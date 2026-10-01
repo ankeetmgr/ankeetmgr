@@ -98,4 +98,4 @@ I like turning ideas into projects, exploring how things work, and building what
 
 <hr />
 
-<h4 align="center">made with 💜 by <a href="https://github.com/ankeetmgr">Ankeet</a></h4>
+
