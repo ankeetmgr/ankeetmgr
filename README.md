@@ -14,32 +14,37 @@
 
 <hr />
 
-### About me
+<h3>About me</h3>
 
-<img align="right" width="260" src="https://github.com/user-attachments/assets/6134d415-8c19-499a-9b74-c924934903a5" alt="mascot" />
-
-| <p align="left">🎓 BCA Student</p> |
-| --- |
-| 🏫 Kathmandu, Nepal |
-| 🏔️ Originally from Baglung |
-| 💻 Learning web development |
-| 🌐 **Languages:** 🇳🇵 • 🇺🇸 |
-
-<br clear="both" />
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      🎓 BCA Student<br /><br />
+      🏫 Kathmandu, Nepal<br /><br />
+      🏔️ Originally from Baglung<br /><br />
+      💻 Learning web development<br /><br />
+      🌐 Languages: 🇳🇵 • 🇺🇸
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/9612f25b-3fbc-4117-9228-c350a7173bd8" width="240" alt="mascot" />
+    </td>
+  </tr>
+</table>
 
 <hr />
 
-<img align="right" width="260" src="https://github.com/user-attachments/assets/9612f25b-3fbc-4117-9228-c350a7173bd8" alt="side art" />
-
-<p align="center">
-  <br /><br />
-  <img src="https://count.getloli.com/@ankeetmgr?name=ankeetmgr&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ankeetmgr&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="400px" />
-  <img src="https://streak-stats.demolab.com?user=ankeetmgr&count_private=true&theme=midnight-purple&hide_border=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeetmgr&layout=compact&theme=midnight-purple&hide_border=true" width="400px" />
-</p>
-
-<br clear="both" />
+<table width="100%">
+  <tr>
+    <td width="60%" align="center" valign="middle">
+      <img src="https://count.getloli.com/@ankeetmgr?name=ankeetmgr&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0" width="330" /><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=ankeetmgr&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="330" /><br />
+      <img src="https://streak-stats.demolab.com?user=ankeetmgr&count_private=true&theme=midnight-purple&hide_border=true" width="330" />
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/6134d415-8c19-499a-9b74-c924934903a5" width="300" alt="side art" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankeetmgr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&title=Ankeet%27s%20Contribution%20Graph" />
@@ -48,8 +53,6 @@
 <hr />
 
 <h2 align="center">⚔️ Languages · Frameworks · Tools ⚔️</h2>
-
-<br />
 
 <table align="center">
   <tr>
@@ -67,8 +70,6 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></td>
   </tr>
 </table>
-
-<br />
 
 <hr />
 
