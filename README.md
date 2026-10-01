@@ -65,7 +65,6 @@ I like turning ideas into projects, exploring how things work, and building what
 <!-- My contributions -->
 <h2 align="center">⚔️ My Contributions ⚔️</h2>
 
-[![Ankeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankeetmgr&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/ankeetmgr)
 
 <table align="center">
   <tr>
