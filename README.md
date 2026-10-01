@@ -1,36 +1,18 @@
-<!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use 
-    and I’m glad you liked it! I just kindly ask for one thing:
-
-    Please, leave a star on my README it would truly make my day :)
-    GitHub: https://github.com/Glauedson
--->
-
-<!-- Banner  -->
+<!-- Banner -->
 <a href="https://github.com/ankeetmgr">
-  <img src="https://github.com/user-attachments/assets/76d22918-d882-48f1-b459-6f15cc08645f" alt="Ankeet Thapa profile banner" style="width:100%; height:auto"/>
+  <img src="https://github.com/user-attachments/assets/76d22918-d882-48f1-b459-6f15cc08645f" alt="Ankeet profile banner" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/ankeetmgr">
-    <img width="120px" 
-        alt="Stars" 
-        title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ankeetmgr" /> 
+  <a href="https://github.com/ankeetmgr?tab=repositories">
+    <img alt="Repos" src="https://img.shields.io/github/stars/ankeetmgr?style=for-the-badge&logo=github&color=000000&labelColor=FF1001&logoColor=white&label=Stars" />
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/ankeetmgr">
-    <img width="111px" 
-        alt="forks" 
-        title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/ankeetmgr/ankeetmgr?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  <a href="https://github.com/ankeetmgr?tab=repositories">
+    <img alt="Forks" src="https://img.shields.io/github/forks/ankeetmgr/ankeetmgr?style=for-the-badge&logo=github&color=000000&labelColor=FF1001&logoColor=white&label=Forks" />
   </a>
   <a href="https://github.com/ankeetmgr?tab=followers">
-    <img width="150px" 
-        alt="Followers" 
-        title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/ankeetmgr?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/ankeetmgr?style=for-the-badge&logo=github&color=000000&labelColor=FF1001&logoColor=white&label=Followers" />
   </a>
 </div>
 
@@ -51,28 +33,28 @@ I like turning ideas into projects, exploring how things work, and building what
 
 </div>
 
-</br>
-</br>
+<br clear="both" />
 
 <!-- badges -->
 <div align="center">
-  <strong>You can Click here</strong>
+  <strong>You can click here</strong>
+  </br>
   </br>
 
   <a href="https://github.com/ankeetmgr" target="_blank">
-    <img width="150px"
-          src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"
-          alt="GitHub"
-          title="My GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-FF1001?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
+  <a href="https://www.linkedin.com/in/ankeetmgr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF1001?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ankeetmgr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF1001?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
+
 </br>
 
-
-<img src="./assets/icons/knife.png" width=106px align="right">
-
-> [!Caution]
+> [!CAUTION]
 >
 > Code is never finished, it only gets **better**.
 >
@@ -80,33 +62,40 @@ I like turning ideas into projects, exploring how things work, and building what
 
 </br>
 
-<!-- My contributions title -->
-<div align="center">
-<img src="./assets/images/Contributions.svg" width="50%">
-</br>
-</br>
-</div>
+<!-- My contributions -->
+<h2 align="center">⚔️ My Contributions ⚔️</h2>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankeetmgr&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
-
+[![Ankeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankeetmgr&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/ankeetmgr)
 
 <table align="center">
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
-      </br>
-      </br>
+      <h3 align="center">⚔️ Stack ⚔️</h3>
       <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" /><br>
       <img src="https://skillicons.dev/icons?i=react,nextjs" /><br>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
       <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
     </td>
-    <!---->
+    <!-- Stats Right -->
     <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=ankeetmgr&repo=ankeetmgr&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ankeetmgr&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF1001&icon_color=FF1001&text_color=ffffff&hide_border=true&count_private=true" width="100%" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ankeetmgr&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
+
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankeetmgr/ankeetmgr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankeetmgr/ankeetmgr/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ankeetmgr/ankeetmgr/output/github-snake.svg" width="95%" />
+  </picture>
+</p>
+
+<hr />
+
+<h4 align="center">made with 💜 by <a href="https://github.com/ankeetmgr">Ankeet</a></h4>
