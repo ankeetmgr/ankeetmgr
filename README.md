@@ -8,29 +8,29 @@
 -->
 
 <!-- Banner  -->
-<a href="https://github.com/Glauedson">
-  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
+<a href="https://github.com/ankeetmgr">
+  <img src="https://github.com/user-attachments/assets/76d22918-d882-48f1-b459-6f15cc08645f" alt="Ankeet Thapa profile banner" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/ankeetmgr">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ankeetmgr" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/ankeetmgr">
     <img width="111px" 
         alt="forks" 
         title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+        src="https://custom-icon-badges.demolab.com/github/forks/ankeetmgr/ankeetmgr?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
   </a>
-  <a href="https://github.com/Glauedson?tab=followers">
+  <a href="https://github.com/ankeetmgr?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+        src="https://custom-icon-badges.herokuapp.com/github/followers/ankeetmgr?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
 </div>
 
@@ -45,11 +45,9 @@
 
 <div align="justify">
 
-I am a graduated **Software Developer** with a degree in `Systems Analysis and Development`, currently working as a **freelancer** while actively seeking an opportunity in the **technology field**. My professional journey is driven by **continuous learning**, **practical experience**, and a strong commitment to delivering **complete and functional systems** for real-world needs.
+I am an aspiring **Full-Stack Developer** from **Nepal** 🇳🇵 who enjoys creating random projects and experimenting with code. I have learned `HTML`, `CSS`, `JavaScript`, `Java`, `Python`, `C`, `Next.js`, and `React`.
 
-Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
-
-At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
+I like turning ideas into projects, exploring how things work, and building whatever comes to mind. My goal is to keep creating and grow into a **Full-Stack Developer**.
 
 </div>
 
@@ -61,26 +59,11 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   <strong>You can Click here</strong>
   </br>
 
-  <!-- Pinterest -->
-  <a href="https://br.pinterest.com/Glauedson_/" target="_blank">
-    <img width="130px" 
-          src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
-          alt="Pinterest"
-          title="My Pinterest"/>
-  </a>
-  <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
-    <img width="100px" 
-          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
-          alt="Linkedin"
-          title="My Linkedin"/>
-  </a>
-  <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
-    <img width="97px" 
-          src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
-          alt="E-mail"
-          title="My E-mail"/>
+  <a href="https://github.com/ankeetmgr" target="_blank">
+    <img width="150px"
+          src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+          title="My GitHub profile"/>
   </a>
 
 </div>
@@ -104,7 +87,7 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 </br>
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankeetmgr&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 
 <table align="center">
@@ -114,24 +97,16 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
       <img src="./assets/images/Stack.svg">
       </br>
       </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-      <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" /><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs" /><br>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
       <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
     </td>
     <!---->
     <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=ankeetmgr&repo=ankeetmgr&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankeetmgr&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
-
-
-
-
-
-<!--
-<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
--->
